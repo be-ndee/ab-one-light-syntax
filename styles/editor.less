@@ -31,6 +31,9 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
 
   .invisible-character {
     color: @syntax-invisible-character-color;
+    &:not(.leading-whitespace):not(.trailing-whitespace) {
+      color: rgba(0, 0, 0, 0);
+    }
   }
 
   .indent-guide {
