@@ -1,15 +1,15 @@
 {
-  "name": "one-light-syntax",
+  "name": "ab-one-light-syntax",
   "theme": "syntax",
   "version": "0.6.0",
-  "description": "Atom One light syntax theme",
+  "description": "Atom One light syntax theme customized by be-ndee",
   "keywords": [
     "light",
     "blue",
     "base16-atelier-dune",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/be-ndee/ab-one-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
